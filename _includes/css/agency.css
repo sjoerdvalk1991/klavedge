@@ -390,6 +390,10 @@ section h3.section-subheading {
     color: #fff;
 }
 
+.img-people{
+    max-width: 200px;
+}
+
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
     margin-top: -12px;
 }
