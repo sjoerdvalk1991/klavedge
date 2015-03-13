@@ -867,7 +867,7 @@ img::-moz-selection {
     text-align: center;
 }
 
-.tester .team-member:first-of-type{
+.team-member:nth-child(2){
     margin-top: -5px;
 }
 
