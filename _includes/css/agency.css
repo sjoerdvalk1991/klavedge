@@ -867,7 +867,7 @@ img::-moz-selection {
     text-align: center;
 }
 
-.team-member:nth-child(2){
+.team-member:nth-child(odd){
     margin-top: -5px;
 }
 
