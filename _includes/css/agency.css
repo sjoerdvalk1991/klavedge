@@ -868,7 +868,7 @@ img::-moz-selection {
 }
 
 .team-member:nth-child(odd){
-    margin-top: -5px;
+    margin-top: -7px;
 }
 
 body {
