@@ -867,6 +867,10 @@ img::-moz-selection {
     text-align: center;
 }
 
+.tester .team-member:first-of-type{
+    margin-top: -5px;
+}
+
 body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
 }
