@@ -391,7 +391,8 @@ section h3.section-subheading {
 }
 
 .img-people{
-    max-width: 200px;
+    width: 200px;
+    height: 200px;
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
